@@ -2,7 +2,7 @@ const seedColors = [
   {
     paletteName: "Material UI Colors",
     id: "material-ui-colors",
-    emoji: "",
+    emoji: "😀",
     colors: [
       { name: "beekeeper", color: "#f6e58d" },
       { name: "turbo", color: "#f9ca24" },
@@ -29,7 +29,7 @@ const seedColors = [
   {
     paletteName: "American Palette",
     id: "americano-paletot",
-    emoji: "",
+    emoji: "😬",
     colors: [
       { name: "beekeeper", color: "#f6e58d" },
       { name: "turbo", color: "#f9ca24" },
@@ -56,7 +56,7 @@ const seedColors = [
   {
     paletteName: "Aussie Palette",
     id: "aussie-paletot",
-    emoji: "",
+    emoji: "😁",
     colors: [
       { name: "beekeeper", color: "#f6e58d" },
       { name: "turbo", color: "#f9ca24" },
@@ -83,7 +83,7 @@ const seedColors = [
   {
     paletteName: "Canadian Palette",
     id: "canadian-ui-colors",
-    emoji: "",
+    emoji: "🤑",
     colors: [
       { name: "beekeeper", color: "#f6e58d" },
       { name: "turbo", color: "#f9ca24" },
@@ -110,7 +110,7 @@ const seedColors = [
   {
     paletteName: "French Palette",
     id: "french-ui-colors",
-    emoji: "",
+    emoji: "🤗",
     colors: [
       { name: "beekeeper", color: "#f6e58d" },
       { name: "turbo", color: "#f9ca24" },
@@ -137,7 +137,7 @@ const seedColors = [
   {
     paletteName: "Chinese Palette",
     id: "chinese-ui-colors",
-    emoji: "",
+    emoji: "😌",
     colors: [
       { name: "beekeeper", color: "#f6e58d" },
       { name: "turbo", color: "#f9ca24" },
@@ -164,7 +164,7 @@ const seedColors = [
   {
     paletteName: "Dutch UI Colors",
     id: "dutch-ui-colors",
-    emoji: "",
+    emoji: "😰",
     colors: [
       { name: "beekeeper", color: "#f6e58d" },
       { name: "turbo", color: "#f9ca24" },
