@@ -12,7 +12,7 @@ class Navbar extends Component {
   constructor(props) {
     super(props);
     this.state = { format: "hex", open: false };
-    this.handleFormatChange = this.handleChange.bind(this);
+    this.handleFormatChange = this.handleFormatChange.bind(this);
     this.closeSnackbar = this.closeSnackbar.bind(this);
   }
   closeSnackbar() {

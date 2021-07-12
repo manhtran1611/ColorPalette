@@ -1,6 +1,6 @@
 export default [
   {
-    palletteName: "Material UI Colors",
+    paletteName: "Material UI Colors",
     id: "material-ui-colors",
     emoji: "",
     colors: [
@@ -27,7 +27,7 @@ export default [
     ],
   },
   {
-    palletteName: "American Palette",
+    paletteName: "American Palette",
     id: "americano-paletot",
     emoji: "",
     colors: [
@@ -54,7 +54,7 @@ export default [
     ],
   },
   {
-    palletteName: "Aussie Palette",
+    paletteName: "Aussie Palette",
     id: "aussie-paletot",
     emoji: "",
     colors: [
@@ -81,7 +81,7 @@ export default [
     ],
   },
   {
-    palletteName: "Canadian Palette",
+    paletteName: "Canadian Palette",
     id: "canadian-ui-colors",
     emoji: "",
     colors: [
@@ -108,7 +108,7 @@ export default [
     ],
   },
   {
-    palletteName: "French Palette",
+    paletteName: "French Palette",
     id: "french-ui-colors",
     emoji: "",
     colors: [
@@ -135,7 +135,7 @@ export default [
     ],
   },
   {
-    palletteName: "Chinese Palette",
+    paletteName: "Chinese Palette",
     id: "chinese-ui-colors",
     emoji: "",
     colors: [
@@ -162,7 +162,7 @@ export default [
     ],
   },
   {
-    palletteName: "Dutch UI Colors",
+    paletteName: "Dutch UI Colors",
     id: "dutch-ui-colors",
     emoji: "",
     colors: [
