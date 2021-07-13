@@ -57,9 +57,7 @@ class Navbar extends Component {
           open={this.state.open}
           autoHideDuration={3000}
           message={
-            <span id="message-id">
-              Format Changed To {format.toLocaleUpperCase}
-            </span>
+            <span id="message-id">Format Changed to {format.toUpperCase}</span>
           }
           ContentProps={{
             "aria-describedby": "message-id",
