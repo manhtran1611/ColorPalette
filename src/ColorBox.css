@@ -2,12 +2,18 @@
   width: 20%;
   height: 25%;
   margin: 0 auto;
-  padding: 0;
-  border: 0;
   display: inline-block;
   position: relative;
   cursor: pointer;
   margin-bottom: -3.5px;
+}
+.SingleColorPalette .ColorBox {
+  height: 50%;
+}
+
+.go-back {
+  background-color: black;
+  position: relative;
 }
 
 .copy-button,
@@ -48,6 +54,13 @@
   letter-spacing: 1px;
   text-transform: uppercase;
   font-size: 12px;
+}
+.light-text {
+  color: white;
+}
+
+.ColorBox .dark-text {
+  color: rgba(0, 0, 0.5);
 }
 
 .see-more {
@@ -118,12 +131,4 @@
 .copy-msg p {
   font-size: 1rem;
   font-weight: 100;
-}
-
-.SingleColorPalette .ColorBox {
-  height: 50%;
-}
-
-.ColorBox.go-back {
-  background-color: black;
 }
