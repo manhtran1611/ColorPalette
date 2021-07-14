@@ -6,7 +6,6 @@ import Snackbar from "@material-ui/core/Snackbar";
 import CloseIcon from "@material-ui/icons/Close";
 import { IconButton } from "@material-ui/core";
 import "rc-slider/assets/index.css";
-import "./Navbar.css";
 import { Link } from "react-router-dom";
 import { withStyles } from "@material-ui/styles";
 import styles from "./styles/NavbarStyles";
