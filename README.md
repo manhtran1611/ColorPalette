@@ -7,6 +7,7 @@ A page where you can pick a color palette you like, customize it and save it. Yo
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Link](#link)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -25,6 +26,10 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.png)
+
+### Link
+
+- You can view the page live here: https://manhtran1611.github.io/ColorPalette
 
 ## My process
 
